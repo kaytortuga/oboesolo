@@ -2,11 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Kristin King'
+AUTHOR = u'KayTortuga'
 SITENAME = u'The OBOE Solo'
 SITEURL = ''
+EMAIL_ADDR = 'kaytortuga at gmail dot com'
+THEME = "./pelican-themes/elegant"
 
 PATH = 'content'
+STATIC_PATHS= ['images','files']
 
 TIMEZONE = 'America/Los_Angeles'
 
