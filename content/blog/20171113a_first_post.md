@@ -167,6 +167,6 @@ This may take a moment as it's uploading quite a few files. But now you can acce
 
 # Wrap-up
 
-There are more things to cover, like using Cloudflare to connect your actual domain with S3 and customizing your theme, but this should be a good start in preparing your blog for the world.
+There are more things to cover, like customizing your theme and using Cloudflare to connect your actual domain with S3, but this should be a good start in preparing your blog for the world.
 
 Thank you for reading. Cheers!
